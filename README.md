@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ef3n9r98
-- 🌱 I’m learning python, javascript, and Solidity (in that order). 
+- 🌱 I’m currently learning python, SQL, and bash.
 - 💞️ I want to learn how to understand data to make data-driven decisions.
 - 📫 How to reach me: on twitter at @eugenefds.
 
