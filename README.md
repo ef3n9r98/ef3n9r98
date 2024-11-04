@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ef3n9r98
-- 🌱 I’m currently learning python, SQL, and bash.
-- 💞️ I want to learn how to understand data to make data-driven decisions.
+- 🌱 I’m currently learning backend engineering on boot.dev.
+- 💞️ I aim to become an indie hacker.
 - 📫 How to reach me: on twitter at @eugenefds.
 
 <!---
